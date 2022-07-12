@@ -4,6 +4,7 @@
 ### 데이터베이스를 정의하고, 질의어를 지원하고, 리포트 생성하는 등의 작업을 수행하는 소프트웨어
 
 # DBMS 언어
+## SQL(Structured Query Language)
 
 ## 데이터 정의어(DDL:Data Definition Language)
 ### 사용자는 데이터 정의어를 사용하여 데이터베이스 스키마를 정의
