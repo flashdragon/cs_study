@@ -22,6 +22,6 @@
 #### 다영한 유형의 고장으로부터 데이터 베이스를 회복할 수 있다
 
 
-## [DBMS](db/dbms.md)
-## [RDBMS](/db/rdbms.md)
-## [NOSQL](db/nosql.md)
+* [DBMS](db/dbms.md)
++ [RDBMS](/db/rdbms.md)
+- [NOSQL](db/nosql.md)
