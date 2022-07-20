@@ -26,5 +26,6 @@
 + ## [RDBMS](/db/rdbms.md)
 - ## [NOSQL](db/nosql.md)
 - ## [정규화](db/normalization.md)
+- ## [트랜잭션](db/transaction.md)
 - ## [인덱스](db/index.md)
 - ## [뷰](db/view.md)
