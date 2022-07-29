@@ -29,3 +29,7 @@
 - ## [트랜잭션](db/transaction.md)
 - ## [인덱스](db/index.md)
 - ## [뷰](db/view.md)
+- ## [락](db/lock.md)
+- ## [캐시](db/cache.md)
+- ## [조인](db/join.md)
+- ## [SOFT DELETE](db/soft.md)
